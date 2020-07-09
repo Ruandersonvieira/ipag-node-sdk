@@ -1,0 +1,11 @@
+{
+  "name": "ipag-node-sdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Ruandersonvieira/ipag-node-sdk.git",
+  "author": "Ruanderson Vieira <ruanderson@accalia.io>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
